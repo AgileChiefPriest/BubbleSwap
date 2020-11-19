@@ -15,3 +15,6 @@ Dev address removed
 Set migrator contract removed
 
 Migrate lp token to another lp contract removed.
+
+Contracts are unaudited but were peer reviewed by another developer. Use at your own risk!
+
